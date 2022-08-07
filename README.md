@@ -5,6 +5,7 @@ Projeto Landing page criado com HTML, SASS e CSS.
 
  <ul>
     <li>HTML</li>
+    <li>SASS</li>
     <li>CSS</li>
  </ul>
 
