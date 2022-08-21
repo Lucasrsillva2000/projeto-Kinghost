@@ -1,4 +1,4 @@
-# projeto-hostinger
+# projeto-Kinghost
 Projeto Landing page criado com HTML, SASS e CSS.
 
 # Tecnologias Usadas 🚀
